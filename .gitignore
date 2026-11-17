@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+
+# Raw datasets exceed GitHub's per-file size limit; download separately.
+data/*.csv
