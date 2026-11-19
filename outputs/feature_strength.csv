@@ -1,0 +1,1185 @@
+month,age_group,feature,strength,dataset
+0,<=50,income,0.2658001313474161,Base
+0,<=50,name_email_similarity,0.17952470561148748,Base
+0,<=50,prev_address_months_count,0.026693164200980224,Base
+0,<=50,current_address_months_count,0.2573863847851925,Base
+0,<=50,customer_age,0.2836219167577372,Base
+0,<=50,days_since_request,0.06718328532837248,Base
+0,<=50,intended_balcon_amount,0.016792697615974683,Base
+0,<=50,zip_count_4w,0.012249257212200826,Base
+0,<=50,velocity_6h,0.07486825234793382,Base
+0,<=50,velocity_24h,0.08657574649498412,Base
+0,<=50,velocity_4w,0.005320854861855517,Base
+0,<=50,bank_branch_count_8w,0.17673885738254136,Base
+0,<=50,date_of_birth_distinct_emails_4w,0.21922410443715534,Base
+0,<=50,credit_risk_score,0.2508697813991567,Base
+0,<=50,email_is_free,0.11219803577228404,Base
+0,<=50,phone_home_valid,0.1485859140377337,Base
+0,<=50,phone_mobile_valid,0.048070795426824575,Base
+0,<=50,bank_months_count,0.09780308263690607,Base
+0,<=50,has_other_cards,0.10077968704754592,Base
+0,<=50,proposed_credit_limit,0.2110371352875382,Base
+0,<=50,foreign_request,0.026513839757152935,Base
+0,<=50,session_length_in_minutes,0.04378127968624712,Base
+0,<=50,keep_alive_session,0.24080354836140416,Base
+0,<=50,device_distinct_emails_8w,0.07238321266554526,Base
+0,>50,income,0.2012136731740597,Base
+0,>50,name_email_similarity,0.13507353323604365,Base
+0,>50,prev_address_months_count,0.006682545072951962,Base
+0,>50,current_address_months_count,0.013048439847151316,Base
+0,>50,customer_age,0.0181714439559566,Base
+0,>50,days_since_request,0.04024824159652951,Base
+0,>50,intended_balcon_amount,0.002998234712827008,Base
+0,>50,zip_count_4w,0.06318779657283402,Base
+0,>50,velocity_6h,0.07750283761499599,Base
+0,>50,velocity_24h,0.04702027479738968,Base
+0,>50,velocity_4w,0.0012620120602460094,Base
+0,>50,bank_branch_count_8w,0.15228278860303668,Base
+0,>50,date_of_birth_distinct_emails_4w,0.13916245231124125,Base
+0,>50,credit_risk_score,0.2886129799087678,Base
+0,>50,email_is_free,0.18581942060643897,Base
+0,>50,phone_home_valid,0.19866593852395065,Base
+0,>50,phone_mobile_valid,0.060422842877203786,Base
+0,>50,bank_months_count,0.005693586531195338,Base
+0,>50,has_other_cards,0.16294793779580796,Base
+0,>50,proposed_credit_limit,0.25602170966685933,Base
+0,>50,foreign_request,0.025901076611015927,Base
+0,>50,session_length_in_minutes,0.02783463205847181,Base
+0,>50,keep_alive_session,0.19973214750091006,Base
+0,>50,device_distinct_emails_8w,0.05986526300331363,Base
+1,<=50,income,0.26806791729350943,Base
+1,<=50,name_email_similarity,0.17282180298252192,Base
+1,<=50,prev_address_months_count,0.004250647852872325,Base
+1,<=50,current_address_months_count,0.17575466756882618,Base
+1,<=50,customer_age,0.24715807995136996,Base
+1,<=50,days_since_request,0.047335228194231305,Base
+1,<=50,intended_balcon_amount,0.02793378183091244,Base
+1,<=50,zip_count_4w,0.025115119993707635,Base
+1,<=50,velocity_6h,0.08620103341032737,Base
+1,<=50,velocity_24h,0.04512785321125323,Base
+1,<=50,velocity_4w,0.09488409638982342,Base
+1,<=50,bank_branch_count_8w,0.1865834582068191,Base
+1,<=50,date_of_birth_distinct_emails_4w,0.19793023567563917,Base
+1,<=50,credit_risk_score,0.2753226718797541,Base
+1,<=50,email_is_free,0.12295676347413087,Base
+1,<=50,phone_home_valid,0.16920398122114833,Base
+1,<=50,phone_mobile_valid,0.04976873766498535,Base
+1,<=50,bank_months_count,0.07678848102021907,Base
+1,<=50,has_other_cards,0.12528076152181622,Base
+1,<=50,proposed_credit_limit,0.19643425274339044,Base
+1,<=50,foreign_request,0.01951282017209821,Base
+1,<=50,session_length_in_minutes,0.006163561581170596,Base
+1,<=50,keep_alive_session,0.24682129460623004,Base
+1,<=50,device_distinct_emails_8w,0.07660072582278943,Base
+1,>50,income,0.19556453924014838,Base
+1,>50,name_email_similarity,0.16284626563600535,Base
+1,>50,prev_address_months_count,0.013880556903532737,Base
+1,>50,current_address_months_count,0.05588522621181036,Base
+1,>50,customer_age,0.0834158040673676,Base
+1,>50,days_since_request,0.09022361987296323,Base
+1,>50,intended_balcon_amount,0.018665769996446424,Base
+1,>50,zip_count_4w,0.13222064710550008,Base
+1,>50,velocity_6h,0.02466479945282729,Base
+1,>50,velocity_24h,0.0011526797575425185,Base
+1,>50,velocity_4w,0.01373790482304127,Base
+1,>50,bank_branch_count_8w,0.1428253008748902,Base
+1,>50,date_of_birth_distinct_emails_4w,0.31355054659946735,Base
+1,>50,credit_risk_score,0.2355606163079349,Base
+1,>50,email_is_free,0.09024527242089508,Base
+1,>50,phone_home_valid,0.19977532297322598,Base
+1,>50,phone_mobile_valid,0.02989452661798664,Base
+1,>50,bank_months_count,0.14098101326282242,Base
+1,>50,has_other_cards,0.1577107907383135,Base
+1,>50,proposed_credit_limit,0.16114845114229936,Base
+1,>50,foreign_request,0.010422517630905626,Base
+1,>50,session_length_in_minutes,0.029099750740962937,Base
+1,>50,keep_alive_session,0.23135492729201768,Base
+1,>50,device_distinct_emails_8w,0.12867217660327568,Base
+2,<=50,income,0.23181361750600682,Base
+2,<=50,name_email_similarity,0.18107366382793388,Base
+2,<=50,prev_address_months_count,0.02013043303683193,Base
+2,<=50,current_address_months_count,0.2737872983658318,Base
+2,<=50,customer_age,0.27685772151117427,Base
+2,<=50,days_since_request,0.04857300716283408,Base
+2,<=50,intended_balcon_amount,0.008719355956962938,Base
+2,<=50,zip_count_4w,0.0702610324233719,Base
+2,<=50,velocity_6h,0.005967821782288496,Base
+2,<=50,velocity_24h,0.028602903133911006,Base
+2,<=50,velocity_4w,0.054791951593810895,Base
+2,<=50,bank_branch_count_8w,0.10677481558187474,Base
+2,<=50,date_of_birth_distinct_emails_4w,0.22803560603257478,Base
+2,<=50,credit_risk_score,0.28372355669589755,Base
+2,<=50,email_is_free,0.11547764806250083,Base
+2,<=50,phone_home_valid,0.14712212701307126,Base
+2,<=50,phone_mobile_valid,0.03554562488598767,Base
+2,<=50,bank_months_count,0.07892091724485573,Base
+2,<=50,has_other_cards,0.1136614779284042,Base
+2,<=50,proposed_credit_limit,0.2614695410488863,Base
+2,<=50,foreign_request,0.020596197352714674,Base
+2,<=50,session_length_in_minutes,0.0036040875765355196,Base
+2,<=50,keep_alive_session,0.231855212365917,Base
+2,<=50,device_distinct_emails_8w,0.1171673834991227,Base
+2,>50,income,0.28689091893133023,Base
+2,>50,name_email_similarity,0.20234202023846626,Base
+2,>50,prev_address_months_count,0.011113115641349314,Base
+2,>50,current_address_months_count,0.16181151219938883,Base
+2,>50,customer_age,0.10309043893745296,Base
+2,>50,days_since_request,0.16188914218861905,Base
+2,>50,intended_balcon_amount,0.02744930816372282,Base
+2,>50,zip_count_4w,0.13359465118440395,Base
+2,>50,velocity_6h,0.02142259688714676,Base
+2,>50,velocity_24h,0.031013727387532164,Base
+2,>50,velocity_4w,0.052494273421569204,Base
+2,>50,bank_branch_count_8w,0.042348799195272235,Base
+2,>50,date_of_birth_distinct_emails_4w,0.17738343201089002,Base
+2,>50,credit_risk_score,0.3684800376122763,Base
+2,>50,email_is_free,0.16791257332480503,Base
+2,>50,phone_home_valid,0.2887573188132452,Base
+2,>50,phone_mobile_valid,0.0036289286514796792,Base
+2,>50,bank_months_count,0.1293731105024627,Base
+2,>50,has_other_cards,0.12918286235984233,Base
+2,>50,proposed_credit_limit,0.3061431562604213,Base
+2,>50,foreign_request,0.017888792306977486,Base
+2,>50,session_length_in_minutes,0.011999846926781688,Base
+2,>50,keep_alive_session,0.12689223098748614,Base
+2,>50,device_distinct_emails_8w,0.06536554431196295,Base
+3,<=50,income,0.276814472834066,Base
+3,<=50,name_email_similarity,0.20223085426208032,Base
+3,<=50,prev_address_months_count,0.014132620115624439,Base
+3,<=50,current_address_months_count,0.3661572373691999,Base
+3,<=50,customer_age,0.29549418968924024,Base
+3,<=50,days_since_request,0.12653277130562868,Base
+3,<=50,intended_balcon_amount,0.007703735865786987,Base
+3,<=50,zip_count_4w,0.09451084457019632,Base
+3,<=50,velocity_6h,0.11189034220127536,Base
+3,<=50,velocity_24h,0.01565738028828223,Base
+3,<=50,velocity_4w,0.017544628064549372,Base
+3,<=50,bank_branch_count_8w,0.22316066502912757,Base
+3,<=50,date_of_birth_distinct_emails_4w,0.23313061699148252,Base
+3,<=50,credit_risk_score,0.41776671336281423,Base
+3,<=50,email_is_free,0.1239788362206562,Base
+3,<=50,phone_home_valid,0.13360027157211796,Base
+3,<=50,phone_mobile_valid,0.04936731680625428,Base
+3,<=50,bank_months_count,0.12388290834008431,Base
+3,<=50,has_other_cards,0.1640582229630787,Base
+3,<=50,proposed_credit_limit,0.35520638888500944,Base
+3,<=50,foreign_request,0.034143895417932946,Base
+3,<=50,session_length_in_minutes,0.012239682848003364,Base
+3,<=50,keep_alive_session,0.2324872166298284,Base
+3,<=50,device_distinct_emails_8w,0.053734689096804455,Base
+3,>50,income,0.25730183068488044,Base
+3,>50,name_email_similarity,0.1656274200043366,Base
+3,>50,prev_address_months_count,0.013729362203017237,Base
+3,>50,current_address_months_count,0.1140786172288819,Base
+3,>50,customer_age,0.024957407923674957,Base
+3,>50,days_since_request,0.14248056252516794,Base
+3,>50,intended_balcon_amount,0.02880618282067937,Base
+3,>50,zip_count_4w,0.021044357711488937,Base
+3,>50,velocity_6h,0.04948269987299814,Base
+3,>50,velocity_24h,0.04055694947805333,Base
+3,>50,velocity_4w,0.06222237710249978,Base
+3,>50,bank_branch_count_8w,0.2286938946194591,Base
+3,>50,date_of_birth_distinct_emails_4w,0.1370876312610353,Base
+3,>50,credit_risk_score,0.3500410432735497,Base
+3,>50,email_is_free,0.1793653006226188,Base
+3,>50,phone_home_valid,0.27485363813771957,Base
+3,>50,phone_mobile_valid,0.049279806709413565,Base
+3,>50,bank_months_count,0.08509354768763755,Base
+3,>50,has_other_cards,0.189169222191246,Base
+3,>50,proposed_credit_limit,0.3197542049995352,Base
+3,>50,foreign_request,0.03892296254994898,Base
+3,>50,session_length_in_minutes,0.05825202118762207,Base
+3,>50,keep_alive_session,0.24023324969798332,Base
+3,>50,device_distinct_emails_8w,0.014352755320137689,Base
+4,<=50,income,0.2931605927186163,Base
+4,<=50,name_email_similarity,0.22205554809657424,Base
+4,<=50,prev_address_months_count,0.009413493921288207,Base
+4,<=50,current_address_months_count,0.26616170592964883,Base
+4,<=50,customer_age,0.3105187673450671,Base
+4,<=50,days_since_request,0.08291997716276867,Base
+4,<=50,intended_balcon_amount,0.006068828527725056,Base
+4,<=50,zip_count_4w,0.06484789414839875,Base
+4,<=50,velocity_6h,0.07668946431071999,Base
+4,<=50,velocity_24h,0.04172966598368344,Base
+4,<=50,velocity_4w,0.010759814336448459,Base
+4,<=50,bank_branch_count_8w,0.22282293972926115,Base
+4,<=50,date_of_birth_distinct_emails_4w,0.23086042939711815,Base
+4,<=50,credit_risk_score,0.3963526990184274,Base
+4,<=50,email_is_free,0.15709440715289258,Base
+4,<=50,phone_home_valid,0.1938213667676414,Base
+4,<=50,phone_mobile_valid,0.02158613550041455,Base
+4,<=50,bank_months_count,0.07905870965348072,Base
+4,<=50,has_other_cards,0.1439478820507587,Base
+4,<=50,proposed_credit_limit,0.3487606225903268,Base
+4,<=50,foreign_request,0.019587280582656907,Base
+4,<=50,session_length_in_minutes,0.006684070360090333,Base
+4,<=50,keep_alive_session,0.25316201652297443,Base
+4,<=50,device_distinct_emails_8w,0.033443741913519176,Base
+4,>50,income,0.1903919412432038,Base
+4,>50,name_email_similarity,0.14208812690752004,Base
+4,>50,prev_address_months_count,0.014185361019012355,Base
+4,>50,current_address_months_count,0.15187650664560715,Base
+4,>50,customer_age,0.009693910106344683,Base
+4,>50,days_since_request,0.10398869016198242,Base
+4,>50,intended_balcon_amount,0.0015148288318002079,Base
+4,>50,zip_count_4w,0.10884476070593663,Base
+4,>50,velocity_6h,0.19452540197242651,Base
+4,>50,velocity_24h,0.015231985097001188,Base
+4,>50,velocity_4w,0.006203505817754751,Base
+4,>50,bank_branch_count_8w,0.27184962423460945,Base
+4,>50,date_of_birth_distinct_emails_4w,0.16221595923552523,Base
+4,>50,credit_risk_score,0.2403522888583014,Base
+4,>50,email_is_free,0.08738855276667579,Base
+4,>50,phone_home_valid,0.2875348978277785,Base
+4,>50,phone_mobile_valid,0.04417615437332234,Base
+4,>50,bank_months_count,0.10204709062538075,Base
+4,>50,has_other_cards,0.18889865811688877,Base
+4,>50,proposed_credit_limit,0.23245827384094464,Base
+4,>50,foreign_request,0.015287506722674538,Base
+4,>50,session_length_in_minutes,0.020876131253123043,Base
+4,>50,keep_alive_session,0.207007823577134,Base
+4,>50,device_distinct_emails_8w,0.1059410625513264,Base
+5,<=50,income,0.2581946587942465,Base
+5,<=50,name_email_similarity,0.24331649606305583,Base
+5,<=50,prev_address_months_count,0.0037384425492792417,Base
+5,<=50,current_address_months_count,0.18088866020700634,Base
+5,<=50,customer_age,0.22689165489911223,Base
+5,<=50,days_since_request,0.08791763144795517,Base
+5,<=50,intended_balcon_amount,0.01356867750608548,Base
+5,<=50,zip_count_4w,0.05757622182986122,Base
+5,<=50,velocity_6h,0.06314807439490511,Base
+5,<=50,velocity_24h,0.022249954588638765,Base
+5,<=50,velocity_4w,0.12129246743643829,Base
+5,<=50,bank_branch_count_8w,0.19396032020173815,Base
+5,<=50,date_of_birth_distinct_emails_4w,0.14464483201092249,Base
+5,<=50,credit_risk_score,0.31268511007705446,Base
+5,<=50,email_is_free,0.14956129201197332,Base
+5,<=50,phone_home_valid,0.24400627567539046,Base
+5,<=50,phone_mobile_valid,0.025820375811441476,Base
+5,<=50,bank_months_count,0.10279764103569788,Base
+5,<=50,has_other_cards,0.1657286600626675,Base
+5,<=50,proposed_credit_limit,0.2541158476857055,Base
+5,<=50,foreign_request,0.02916077105067716,Base
+5,<=50,session_length_in_minutes,0.025377265201525834,Base
+5,<=50,keep_alive_session,0.21087716395116718,Base
+5,<=50,device_distinct_emails_8w,0.05980252216391224,Base
+5,>50,income,0.2798230725061994,Base
+5,>50,name_email_similarity,0.14087946341247948,Base
+5,>50,prev_address_months_count,0.02361767508187007,Base
+5,>50,current_address_months_count,0.07716789813418479,Base
+5,>50,customer_age,0.044417382305988795,Base
+5,>50,days_since_request,0.028175892682495873,Base
+5,>50,intended_balcon_amount,0.017386091883672128,Base
+5,>50,zip_count_4w,0.020221727251503285,Base
+5,>50,velocity_6h,0.06466687278761762,Base
+5,>50,velocity_24h,0.0031814137793958475,Base
+5,>50,velocity_4w,0.058514793384779384,Base
+5,>50,bank_branch_count_8w,0.20739259100345142,Base
+5,>50,date_of_birth_distinct_emails_4w,0.16042099152590483,Base
+5,>50,credit_risk_score,0.3471451196658317,Base
+5,>50,email_is_free,0.16428134247837312,Base
+5,>50,phone_home_valid,0.3524012039146154,Base
+5,>50,phone_mobile_valid,0.07458591773250123,Base
+5,>50,bank_months_count,0.1901655067104988,Base
+5,>50,has_other_cards,0.2131850103796622,Base
+5,>50,proposed_credit_limit,0.2622704012417736,Base
+5,>50,foreign_request,0.024721894461866345,Base
+5,>50,session_length_in_minutes,0.00027637033625049767,Base
+5,>50,keep_alive_session,0.1803713963011806,Base
+5,>50,device_distinct_emails_8w,0.11805177842418435,Base
+6,<=50,income,0.2546167986854546,Base
+6,<=50,name_email_similarity,0.1635481648689645,Base
+6,<=50,prev_address_months_count,0.005564631008974308,Base
+6,<=50,current_address_months_count,0.24879761418871005,Base
+6,<=50,customer_age,0.25480266861468537,Base
+6,<=50,days_since_request,0.08413128851626439,Base
+6,<=50,intended_balcon_amount,0.0011554085161118444,Base
+6,<=50,zip_count_4w,0.08954406587936803,Base
+6,<=50,velocity_6h,0.03451770392644227,Base
+6,<=50,velocity_24h,0.012855966836500032,Base
+6,<=50,velocity_4w,0.08296042874854537,Base
+6,<=50,bank_branch_count_8w,0.19534010330314666,Base
+6,<=50,date_of_birth_distinct_emails_4w,0.1427140344628166,Base
+6,<=50,credit_risk_score,0.33717336936471076,Base
+6,<=50,email_is_free,0.14527167935700724,Base
+6,<=50,phone_home_valid,0.2035256744349755,Base
+6,<=50,phone_mobile_valid,0.017676169092285754,Base
+6,<=50,bank_months_count,0.06200552759506506,Base
+6,<=50,has_other_cards,0.16158376960373622,Base
+6,<=50,proposed_credit_limit,0.2908548622210325,Base
+6,<=50,foreign_request,0.026779434763725574,Base
+6,<=50,session_length_in_minutes,0.0628608367259027,Base
+6,<=50,keep_alive_session,0.23918156304578897,Base
+6,<=50,device_distinct_emails_8w,0.04079197092102671,Base
+6,>50,income,0.2575037733610932,Base
+6,>50,name_email_similarity,0.21592317477717748,Base
+6,>50,prev_address_months_count,0.001224041525378583,Base
+6,>50,current_address_months_count,0.12890885441166255,Base
+6,>50,customer_age,0.02588382547233481,Base
+6,>50,days_since_request,0.08519001787489211,Base
+6,>50,intended_balcon_amount,0.03933703374959574,Base
+6,>50,zip_count_4w,0.04890030555021552,Base
+6,>50,velocity_6h,0.12999177836769915,Base
+6,>50,velocity_24h,0.04650539723573188,Base
+6,>50,velocity_4w,0.01923084789162166,Base
+6,>50,bank_branch_count_8w,0.20044523615718446,Base
+6,>50,date_of_birth_distinct_emails_4w,0.20053726935458138,Base
+6,>50,credit_risk_score,0.29670480249675846,Base
+6,>50,email_is_free,0.15429979098238267,Base
+6,>50,phone_home_valid,0.2389151126690855,Base
+6,>50,phone_mobile_valid,0.0025626132519623868,Base
+6,>50,bank_months_count,0.060061887212293996,Base
+6,>50,has_other_cards,0.2101209929768444,Base
+6,>50,proposed_credit_limit,0.2095278901491755,Base
+6,>50,foreign_request,0.03508816780310631,Base
+6,>50,session_length_in_minutes,0.05840631225023207,Base
+6,>50,keep_alive_session,0.22097375213210246,Base
+6,>50,device_distinct_emails_8w,0.05721294845731917,Base
+7,<=50,income,0.2720462881081034,Base
+7,<=50,name_email_similarity,0.20637276658096293,Base
+7,<=50,prev_address_months_count,0.030282945576802778,Base
+7,<=50,current_address_months_count,0.2943414551206638,Base
+7,<=50,customer_age,0.21065145433533639,Base
+7,<=50,days_since_request,0.08185617148483437,Base
+7,<=50,intended_balcon_amount,0.004266895051165953,Base
+7,<=50,zip_count_4w,0.060791333872403985,Base
+7,<=50,velocity_6h,0.08099931179387132,Base
+7,<=50,velocity_24h,0.012051127976751563,Base
+7,<=50,velocity_4w,0.05111746308342435,Base
+7,<=50,bank_branch_count_8w,0.14742243313226044,Base
+7,<=50,date_of_birth_distinct_emails_4w,0.13638028474901642,Base
+7,<=50,credit_risk_score,0.352454984148066,Base
+7,<=50,email_is_free,0.15321125199540142,Base
+7,<=50,phone_home_valid,0.24114249891559147,Base
+7,<=50,phone_mobile_valid,0.014247589296045526,Base
+7,<=50,bank_months_count,0.09009248361406885,Base
+7,<=50,has_other_cards,0.12970384966528925,Base
+7,<=50,proposed_credit_limit,0.29436525369958755,Base
+7,<=50,foreign_request,0.02465527660369471,Base
+7,<=50,session_length_in_minutes,0.011637240759845735,Base
+7,<=50,keep_alive_session,0.25745079275019056,Base
+7,<=50,device_distinct_emails_8w,0.03468982675129095,Base
+7,>50,income,0.26912692068567345,Base
+7,>50,name_email_similarity,0.2568567368327561,Base
+7,>50,prev_address_months_count,0.004229949373834363,Base
+7,>50,current_address_months_count,0.08000488498090408,Base
+7,>50,customer_age,0.04441113775646133,Base
+7,>50,days_since_request,0.17167599253930188,Base
+7,>50,intended_balcon_amount,0.01062261302069456,Base
+7,>50,zip_count_4w,0.12028155253574901,Base
+7,>50,velocity_6h,0.022351008082422963,Base
+7,>50,velocity_24h,0.010675903721467317,Base
+7,>50,velocity_4w,0.06907362998490085,Base
+7,>50,bank_branch_count_8w,0.16985300648370205,Base
+7,>50,date_of_birth_distinct_emails_4w,0.10559552358113522,Base
+7,>50,credit_risk_score,0.30141664446220795,Base
+7,>50,email_is_free,0.1962785327293719,Base
+7,>50,phone_home_valid,0.34965805133670846,Base
+7,>50,phone_mobile_valid,0.07290167865707442,Base
+7,>50,bank_months_count,0.057640554223288065,Base
+7,>50,has_other_cards,0.18533617550404125,Base
+7,>50,proposed_credit_limit,0.31084687805311306,Base
+7,>50,foreign_request,0.038347100097699816,Base
+7,>50,session_length_in_minutes,0.03040678568256494,Base
+7,>50,keep_alive_session,0.2413713473665513,Base
+7,>50,device_distinct_emails_8w,0.02474464872546389,Base
+0,<=50,income,0.30127280694765357,Variant IV
+0,<=50,name_email_similarity,0.15445796704999148,Variant IV
+0,<=50,prev_address_months_count,0.0488273178763976,Variant IV
+0,<=50,current_address_months_count,0.25275130799670653,Variant IV
+0,<=50,customer_age,0.3617770385715171,Variant IV
+0,<=50,days_since_request,0.08691478766632144,Variant IV
+0,<=50,intended_balcon_amount,0.009000522313405757,Variant IV
+0,<=50,zip_count_4w,0.0164349675545995,Variant IV
+0,<=50,velocity_6h,0.10107408440230514,Variant IV
+0,<=50,velocity_24h,0.0747899901734258,Variant IV
+0,<=50,velocity_4w,0.02081675652227788,Variant IV
+0,<=50,bank_branch_count_8w,0.14630357032197527,Variant IV
+0,<=50,date_of_birth_distinct_emails_4w,0.2961353013040128,Variant IV
+0,<=50,credit_risk_score,0.3251439902973645,Variant IV
+0,<=50,email_is_free,0.10926221018245563,Variant IV
+0,<=50,phone_home_valid,0.14836808045396999,Variant IV
+0,<=50,phone_mobile_valid,0.0685945343000558,Variant IV
+0,<=50,bank_months_count,0.11176291840402275,Variant IV
+0,<=50,has_other_cards,0.13434821483901238,Variant IV
+0,<=50,proposed_credit_limit,0.2693715418868794,Variant IV
+0,<=50,foreign_request,0.028985384077408582,Variant IV
+0,<=50,session_length_in_minutes,0.042345253587584786,Variant IV
+0,<=50,keep_alive_session,0.24577802565532625,Variant IV
+0,<=50,device_distinct_emails_8w,0.09258514151152175,Variant IV
+0,>50,income,0.14891452905379166,Variant IV
+0,>50,name_email_similarity,0.11557208419053644,Variant IV
+0,>50,prev_address_months_count,0.027901422837330214,Variant IV
+0,>50,current_address_months_count,0.12913399703635497,Variant IV
+0,>50,customer_age,0.07663072407889615,Variant IV
+0,>50,days_since_request,0.0219644218734264,Variant IV
+0,>50,intended_balcon_amount,0.025046756535124892,Variant IV
+0,>50,zip_count_4w,0.00452459393747584,Variant IV
+0,>50,velocity_6h,0.041071659785063885,Variant IV
+0,>50,velocity_24h,0.001406292710296686,Variant IV
+0,>50,velocity_4w,0.025671495777525255,Variant IV
+0,>50,bank_branch_count_8w,0.13449625228387696,Variant IV
+0,>50,date_of_birth_distinct_emails_4w,0.14158490267447388,Variant IV
+0,>50,credit_risk_score,0.26568178221525285,Variant IV
+0,>50,email_is_free,0.12382353364312526,Variant IV
+0,>50,phone_home_valid,0.18200520795868158,Variant IV
+0,>50,phone_mobile_valid,0.07886101080435626,Variant IV
+0,>50,bank_months_count,0.03307449395042372,Variant IV
+0,>50,has_other_cards,0.14363679523514938,Variant IV
+0,>50,proposed_credit_limit,0.22623904818081098,Variant IV
+0,>50,foreign_request,0.018297630522666086,Variant IV
+0,>50,session_length_in_minutes,0.03236739127307264,Variant IV
+0,>50,keep_alive_session,0.17020098116790638,Variant IV
+0,>50,device_distinct_emails_8w,0.08866477722309352,Variant IV
+1,<=50,income,0.22740909789175578,Variant IV
+1,<=50,name_email_similarity,0.16700334735429934,Variant IV
+1,<=50,prev_address_months_count,0.006083016147499176,Variant IV
+1,<=50,current_address_months_count,0.2128874490636099,Variant IV
+1,<=50,customer_age,0.3526701059543036,Variant IV
+1,<=50,days_since_request,0.009077376542100168,Variant IV
+1,<=50,intended_balcon_amount,0.017919276529091643,Variant IV
+1,<=50,zip_count_4w,0.049935218172407536,Variant IV
+1,<=50,velocity_6h,0.009971644132197977,Variant IV
+1,<=50,velocity_24h,0.017152296217167073,Variant IV
+1,<=50,velocity_4w,0.0544761239063265,Variant IV
+1,<=50,bank_branch_count_8w,0.13218800203338876,Variant IV
+1,<=50,date_of_birth_distinct_emails_4w,0.30562732670973625,Variant IV
+1,<=50,credit_risk_score,0.29912215800016995,Variant IV
+1,<=50,email_is_free,0.09260439148310295,Variant IV
+1,<=50,phone_home_valid,0.15323777972168995,Variant IV
+1,<=50,phone_mobile_valid,0.07215602900087936,Variant IV
+1,<=50,bank_months_count,0.09767763559085818,Variant IV
+1,<=50,has_other_cards,0.1353830305438245,Variant IV
+1,<=50,proposed_credit_limit,0.24652159855474443,Variant IV
+1,<=50,foreign_request,0.01849215110606961,Variant IV
+1,<=50,session_length_in_minutes,0.019749346179845695,Variant IV
+1,<=50,keep_alive_session,0.25051923406835974,Variant IV
+1,<=50,device_distinct_emails_8w,0.09694173248917459,Variant IV
+1,>50,income,0.16568138100051444,Variant IV
+1,>50,name_email_similarity,0.1890434958097813,Variant IV
+1,>50,prev_address_months_count,0.014211542398309351,Variant IV
+1,>50,current_address_months_count,0.08139538255354273,Variant IV
+1,>50,customer_age,0.04582970157848676,Variant IV
+1,>50,days_since_request,0.029426927932645675,Variant IV
+1,>50,intended_balcon_amount,0.00903748782890934,Variant IV
+1,>50,zip_count_4w,0.02082148119925331,Variant IV
+1,>50,velocity_6h,0.02921467687095536,Variant IV
+1,>50,velocity_24h,0.064983620133231,Variant IV
+1,>50,velocity_4w,0.08178624926277545,Variant IV
+1,>50,bank_branch_count_8w,0.17090008948180024,Variant IV
+1,>50,date_of_birth_distinct_emails_4w,0.21861830358048995,Variant IV
+1,>50,credit_risk_score,0.22212740514958185,Variant IV
+1,>50,email_is_free,0.06907902176617231,Variant IV
+1,>50,phone_home_valid,0.2225487177078277,Variant IV
+1,>50,phone_mobile_valid,0.05900376542662178,Variant IV
+1,>50,bank_months_count,0.10416655793149165,Variant IV
+1,>50,has_other_cards,0.1717659114356349,Variant IV
+1,>50,proposed_credit_limit,0.1568639731658985,Variant IV
+1,>50,foreign_request,0.006613418326545384,Variant IV
+1,>50,session_length_in_minutes,0.009756589786548586,Variant IV
+1,>50,keep_alive_session,0.21296929376648788,Variant IV
+1,>50,device_distinct_emails_8w,0.12016425680522702,Variant IV
+2,<=50,income,0.27488725015115034,Variant IV
+2,<=50,name_email_similarity,0.15359176879278857,Variant IV
+2,<=50,prev_address_months_count,0.0313583244571789,Variant IV
+2,<=50,current_address_months_count,0.28766421148363475,Variant IV
+2,<=50,customer_age,0.3669684711616765,Variant IV
+2,<=50,days_since_request,0.07608726435678337,Variant IV
+2,<=50,intended_balcon_amount,0.004833574880621638,Variant IV
+2,<=50,zip_count_4w,0.03257645641835838,Variant IV
+2,<=50,velocity_6h,0.07110224195025805,Variant IV
+2,<=50,velocity_24h,0.03126969174081795,Variant IV
+2,<=50,velocity_4w,0.04370867511430687,Variant IV
+2,<=50,bank_branch_count_8w,0.10629065025484907,Variant IV
+2,<=50,date_of_birth_distinct_emails_4w,0.33731155202206753,Variant IV
+2,<=50,credit_risk_score,0.3882066599031113,Variant IV
+2,<=50,email_is_free,0.11649960798321635,Variant IV
+2,<=50,phone_home_valid,0.16231144869785785,Variant IV
+2,<=50,phone_mobile_valid,0.0645738871212298,Variant IV
+2,<=50,bank_months_count,0.07462316293630522,Variant IV
+2,<=50,has_other_cards,0.10345483450611315,Variant IV
+2,<=50,proposed_credit_limit,0.319035776162681,Variant IV
+2,<=50,foreign_request,0.013201279419780887,Variant IV
+2,<=50,session_length_in_minutes,0.030683209855907556,Variant IV
+2,<=50,keep_alive_session,0.23163685077021656,Variant IV
+2,<=50,device_distinct_emails_8w,0.11246198181765243,Variant IV
+2,>50,income,0.282264662669814,Variant IV
+2,>50,name_email_similarity,0.1486338284138622,Variant IV
+2,>50,prev_address_months_count,0.012157238550827731,Variant IV
+2,>50,current_address_months_count,0.09567770675356702,Variant IV
+2,>50,customer_age,0.04511234184927537,Variant IV
+2,>50,days_since_request,0.15231995014378918,Variant IV
+2,>50,intended_balcon_amount,0.025294976777868294,Variant IV
+2,>50,zip_count_4w,0.05119096112468924,Variant IV
+2,>50,velocity_6h,0.046271925243536405,Variant IV
+2,>50,velocity_24h,0.05454720324761686,Variant IV
+2,>50,velocity_4w,0.06149643486313905,Variant IV
+2,>50,bank_branch_count_8w,0.12615936579557563,Variant IV
+2,>50,date_of_birth_distinct_emails_4w,0.18691705312193185,Variant IV
+2,>50,credit_risk_score,0.38464266814285586,Variant IV
+2,>50,email_is_free,0.08510763301372437,Variant IV
+2,>50,phone_home_valid,0.21361118944663793,Variant IV
+2,>50,phone_mobile_valid,0.005303315159491007,Variant IV
+2,>50,bank_months_count,0.016026143176453456,Variant IV
+2,>50,has_other_cards,0.14850653318292917,Variant IV
+2,>50,proposed_credit_limit,0.32102399330144205,Variant IV
+2,>50,foreign_request,0.004698173215516688,Variant IV
+2,>50,session_length_in_minutes,0.025952560005013448,Variant IV
+2,>50,keep_alive_session,0.16376629378955943,Variant IV
+2,>50,device_distinct_emails_8w,0.09622387945380995,Variant IV
+3,<=50,income,0.281422321734939,Variant IV
+3,<=50,name_email_similarity,0.16688466300767357,Variant IV
+3,<=50,prev_address_months_count,0.014852357971823604,Variant IV
+3,<=50,current_address_months_count,0.34183069245254316,Variant IV
+3,<=50,customer_age,0.37214764378109044,Variant IV
+3,<=50,days_since_request,0.11653665187859197,Variant IV
+3,<=50,intended_balcon_amount,0.01900855562540027,Variant IV
+3,<=50,zip_count_4w,0.08450451044804552,Variant IV
+3,<=50,velocity_6h,0.10040923490901998,Variant IV
+3,<=50,velocity_24h,0.050052256393598116,Variant IV
+3,<=50,velocity_4w,0.02875736010789187,Variant IV
+3,<=50,bank_branch_count_8w,0.25354995622037,Variant IV
+3,<=50,date_of_birth_distinct_emails_4w,0.31790118578642124,Variant IV
+3,<=50,credit_risk_score,0.4447885532071514,Variant IV
+3,<=50,email_is_free,0.1042876995211468,Variant IV
+3,<=50,phone_home_valid,0.14960544152013167,Variant IV
+3,<=50,phone_mobile_valid,0.07123207363575335,Variant IV
+3,<=50,bank_months_count,0.10627482790767107,Variant IV
+3,<=50,has_other_cards,0.1772633479098994,Variant IV
+3,<=50,proposed_credit_limit,0.3833494835623297,Variant IV
+3,<=50,foreign_request,0.028041997365597204,Variant IV
+3,<=50,session_length_in_minutes,0.029902906288383768,Variant IV
+3,<=50,keep_alive_session,0.2511613815610283,Variant IV
+3,<=50,device_distinct_emails_8w,0.058307993464924435,Variant IV
+3,>50,income,0.2208946888288703,Variant IV
+3,>50,name_email_similarity,0.15172393977703713,Variant IV
+3,>50,prev_address_months_count,0.015695843150212774,Variant IV
+3,>50,current_address_months_count,0.13059310711412486,Variant IV
+3,>50,customer_age,0.05644385343638647,Variant IV
+3,>50,days_since_request,0.08341444230548212,Variant IV
+3,>50,intended_balcon_amount,0.00785811257326774,Variant IV
+3,>50,zip_count_4w,0.09429196356740599,Variant IV
+3,>50,velocity_6h,0.07459954315595907,Variant IV
+3,>50,velocity_24h,0.007624662395126824,Variant IV
+3,>50,velocity_4w,0.03980226769911499,Variant IV
+3,>50,bank_branch_count_8w,0.231273255229284,Variant IV
+3,>50,date_of_birth_distinct_emails_4w,0.15328446442937604,Variant IV
+3,>50,credit_risk_score,0.3368327814331684,Variant IV
+3,>50,email_is_free,0.14492946213078972,Variant IV
+3,>50,phone_home_valid,0.2726109067923228,Variant IV
+3,>50,phone_mobile_valid,0.027027065854499543,Variant IV
+3,>50,bank_months_count,0.08212597689920687,Variant IV
+3,>50,has_other_cards,0.17720736122284797,Variant IV
+3,>50,proposed_credit_limit,0.32928659421330875,Variant IV
+3,>50,foreign_request,0.025858378347316302,Variant IV
+3,>50,session_length_in_minutes,0.009647687765774182,Variant IV
+3,>50,keep_alive_session,0.204308412826112,Variant IV
+3,>50,device_distinct_emails_8w,0.06909245345362613,Variant IV
+4,<=50,income,0.3100848582591269,Variant IV
+4,<=50,name_email_similarity,0.15563985499502253,Variant IV
+4,<=50,prev_address_months_count,0.01506563858732779,Variant IV
+4,<=50,current_address_months_count,0.2669283173819381,Variant IV
+4,<=50,customer_age,0.37719826997756534,Variant IV
+4,<=50,days_since_request,0.08800165710313412,Variant IV
+4,<=50,intended_balcon_amount,0.013300008332984392,Variant IV
+4,<=50,zip_count_4w,0.047264744301749095,Variant IV
+4,<=50,velocity_6h,0.07888990476371305,Variant IV
+4,<=50,velocity_24h,0.015079105313865582,Variant IV
+4,<=50,velocity_4w,0.00206723681011034,Variant IV
+4,<=50,bank_branch_count_8w,0.22935818563203025,Variant IV
+4,<=50,date_of_birth_distinct_emails_4w,0.28011360819219144,Variant IV
+4,<=50,credit_risk_score,0.4396818783345957,Variant IV
+4,<=50,email_is_free,0.12042072368601797,Variant IV
+4,<=50,phone_home_valid,0.19163220139460269,Variant IV
+4,<=50,phone_mobile_valid,0.04300210593983089,Variant IV
+4,<=50,bank_months_count,0.07787135595728212,Variant IV
+4,<=50,has_other_cards,0.15457256977362344,Variant IV
+4,<=50,proposed_credit_limit,0.38937848521044893,Variant IV
+4,<=50,foreign_request,0.01950171876331508,Variant IV
+4,<=50,session_length_in_minutes,0.025746853046768825,Variant IV
+4,<=50,keep_alive_session,0.2329429033878766,Variant IV
+4,<=50,device_distinct_emails_8w,0.04920425854177202,Variant IV
+4,>50,income,0.26169436822095204,Variant IV
+4,>50,name_email_similarity,0.1895374764100224,Variant IV
+4,>50,prev_address_months_count,0.018819201245179995,Variant IV
+4,>50,current_address_months_count,0.08061520078924289,Variant IV
+4,>50,customer_age,0.008307041141594862,Variant IV
+4,>50,days_since_request,0.14838678523280036,Variant IV
+4,>50,intended_balcon_amount,0.005225646804761674,Variant IV
+4,>50,zip_count_4w,0.08259122814996744,Variant IV
+4,>50,velocity_6h,0.07767631490437399,Variant IV
+4,>50,velocity_24h,0.015448410312041805,Variant IV
+4,>50,velocity_4w,0.011642906835520606,Variant IV
+4,>50,bank_branch_count_8w,0.23931717226846172,Variant IV
+4,>50,date_of_birth_distinct_emails_4w,0.17071243557500593,Variant IV
+4,>50,credit_risk_score,0.35174129269428,Variant IV
+4,>50,email_is_free,0.12544079077030368,Variant IV
+4,>50,phone_home_valid,0.30072820808255385,Variant IV
+4,>50,phone_mobile_valid,0.03574738608167438,Variant IV
+4,>50,bank_months_count,0.08697563711890366,Variant IV
+4,>50,has_other_cards,0.1834437521161495,Variant IV
+4,>50,proposed_credit_limit,0.2719958538912164,Variant IV
+4,>50,foreign_request,0.024486186281792888,Variant IV
+4,>50,session_length_in_minutes,0.006174580153143205,Variant IV
+4,>50,keep_alive_session,0.19409752227326238,Variant IV
+4,>50,device_distinct_emails_8w,0.05095064592040055,Variant IV
+5,<=50,income,0.24823173592631065,Variant IV
+5,<=50,name_email_similarity,0.13803200648760938,Variant IV
+5,<=50,prev_address_months_count,0.0003951854884949313,Variant IV
+5,<=50,current_address_months_count,0.19833955745201814,Variant IV
+5,<=50,customer_age,0.3457485478336684,Variant IV
+5,<=50,days_since_request,0.08707204636221777,Variant IV
+5,<=50,intended_balcon_amount,0.01325400551282696,Variant IV
+5,<=50,zip_count_4w,0.059535312176445254,Variant IV
+5,<=50,velocity_6h,0.053752874369811465,Variant IV
+5,<=50,velocity_24h,0.0264836659450427,Variant IV
+5,<=50,velocity_4w,0.10597791766125697,Variant IV
+5,<=50,bank_branch_count_8w,0.19019691304040187,Variant IV
+5,<=50,date_of_birth_distinct_emails_4w,0.2022893273040598,Variant IV
+5,<=50,credit_risk_score,0.3686304165039791,Variant IV
+5,<=50,email_is_free,0.1321629596216578,Variant IV
+5,<=50,phone_home_valid,0.23457211131901223,Variant IV
+5,<=50,phone_mobile_valid,0.03266501191026505,Variant IV
+5,<=50,bank_months_count,0.09000768828450711,Variant IV
+5,<=50,has_other_cards,0.1718922487407455,Variant IV
+5,<=50,proposed_credit_limit,0.30754497943575076,Variant IV
+5,<=50,foreign_request,0.021287586664561653,Variant IV
+5,<=50,session_length_in_minutes,0.0752790495775073,Variant IV
+5,<=50,keep_alive_session,0.2399124208516864,Variant IV
+5,<=50,device_distinct_emails_8w,0.04868594894971645,Variant IV
+5,>50,income,0.19517548091871517,Variant IV
+5,>50,name_email_similarity,0.16499918515611756,Variant IV
+5,>50,prev_address_months_count,0.001704203093404466,Variant IV
+5,>50,current_address_months_count,0.08589432868657898,Variant IV
+5,>50,customer_age,0.08526068035175505,Variant IV
+5,>50,days_since_request,0.12870646750166714,Variant IV
+5,>50,intended_balcon_amount,0.012176019144542471,Variant IV
+5,>50,zip_count_4w,0.037691622332726604,Variant IV
+5,>50,velocity_6h,0.0174457003047086,Variant IV
+5,>50,velocity_24h,0.010189837181326267,Variant IV
+5,>50,velocity_4w,0.09231899744181904,Variant IV
+5,>50,bank_branch_count_8w,0.19397747278314204,Variant IV
+5,>50,date_of_birth_distinct_emails_4w,0.16598986377096892,Variant IV
+5,>50,credit_risk_score,0.3178265057993297,Variant IV
+5,>50,email_is_free,0.15567954227217085,Variant IV
+5,>50,phone_home_valid,0.31352713215695605,Variant IV
+5,>50,phone_mobile_valid,0.0055256600771529385,Variant IV
+5,>50,bank_months_count,0.06476172785500944,Variant IV
+5,>50,has_other_cards,0.18463263406862285,Variant IV
+5,>50,proposed_credit_limit,0.246181089403384,Variant IV
+5,>50,foreign_request,0.03762514822653529,Variant IV
+5,>50,session_length_in_minutes,0.007265512590410195,Variant IV
+5,>50,keep_alive_session,0.19509975940662205,Variant IV
+5,>50,device_distinct_emails_8w,0.08636567834681053,Variant IV
+6,<=50,income,0.21529203692056686,Variant IV
+6,<=50,name_email_similarity,0.15764385853526208,Variant IV
+6,<=50,prev_address_months_count,0.02128673945685411,Variant IV
+6,<=50,current_address_months_count,0.19570407833770176,Variant IV
+6,<=50,customer_age,0.024084110914102785,Variant IV
+6,<=50,days_since_request,0.10296965815443859,Variant IV
+6,<=50,intended_balcon_amount,0.0022368775892904758,Variant IV
+6,<=50,zip_count_4w,0.07762201749266695,Variant IV
+6,<=50,velocity_6h,0.09108171274224186,Variant IV
+6,<=50,velocity_24h,0.03223206092855102,Variant IV
+6,<=50,velocity_4w,0.08772676581507999,Variant IV
+6,<=50,bank_branch_count_8w,0.21893698568240738,Variant IV
+6,<=50,date_of_birth_distinct_emails_4w,0.026445833846148625,Variant IV
+6,<=50,credit_risk_score,0.32965504032148774,Variant IV
+6,<=50,email_is_free,0.14339609646378526,Variant IV
+6,<=50,phone_home_valid,0.23477053694866723,Variant IV
+6,<=50,phone_mobile_valid,0.021785586823127367,Variant IV
+6,<=50,bank_months_count,0.10103414552413015,Variant IV
+6,<=50,has_other_cards,0.1672036177555014,Variant IV
+6,<=50,proposed_credit_limit,0.2893441208998673,Variant IV
+6,<=50,foreign_request,0.03663210482374124,Variant IV
+6,<=50,session_length_in_minutes,0.03702859093092181,Variant IV
+6,<=50,keep_alive_session,0.2230874817073103,Variant IV
+6,<=50,device_distinct_emails_8w,0.04115054253920025,Variant IV
+6,>50,income,0.24024304693055054,Variant IV
+6,>50,name_email_similarity,0.1233377195516725,Variant IV
+6,>50,prev_address_months_count,0.008593532978742768,Variant IV
+6,>50,current_address_months_count,0.10739086725405045,Variant IV
+6,>50,customer_age,0.02339607670739352,Variant IV
+6,>50,days_since_request,0.05391434742145362,Variant IV
+6,>50,intended_balcon_amount,0.00568699318478183,Variant IV
+6,>50,zip_count_4w,0.0961318478567994,Variant IV
+6,>50,velocity_6h,0.09885392423577233,Variant IV
+6,>50,velocity_24h,0.015568195965671716,Variant IV
+6,>50,velocity_4w,0.034724791108585396,Variant IV
+6,>50,bank_branch_count_8w,0.21772878080007874,Variant IV
+6,>50,date_of_birth_distinct_emails_4w,0.17453257189059512,Variant IV
+6,>50,credit_risk_score,0.3250974091924732,Variant IV
+6,>50,email_is_free,0.14730307140521193,Variant IV
+6,>50,phone_home_valid,0.2310343711534959,Variant IV
+6,>50,phone_mobile_valid,0.015574549926145043,Variant IV
+6,>50,bank_months_count,0.023286669450495623,Variant IV
+6,>50,has_other_cards,0.1776670600165322,Variant IV
+6,>50,proposed_credit_limit,0.2975637128494355,Variant IV
+6,>50,foreign_request,0.022128064470460007,Variant IV
+6,>50,session_length_in_minutes,0.01537618722262235,Variant IV
+6,>50,keep_alive_session,0.23591778689968224,Variant IV
+6,>50,device_distinct_emails_8w,0.042370988293026324,Variant IV
+7,<=50,income,0.25252814909464205,Variant IV
+7,<=50,name_email_similarity,0.20149718509053582,Variant IV
+7,<=50,prev_address_months_count,0.02178285335168062,Variant IV
+7,<=50,current_address_months_count,0.2031880283074503,Variant IV
+7,<=50,customer_age,0.020461579625625115,Variant IV
+7,<=50,days_since_request,0.09373434189546348,Variant IV
+7,<=50,intended_balcon_amount,0.002362885787300817,Variant IV
+7,<=50,zip_count_4w,0.041993753139811574,Variant IV
+7,<=50,velocity_6h,0.12783849900618127,Variant IV
+7,<=50,velocity_24h,0.04470896675621949,Variant IV
+7,<=50,velocity_4w,0.05630427778869884,Variant IV
+7,<=50,bank_branch_count_8w,0.14611456490400365,Variant IV
+7,<=50,date_of_birth_distinct_emails_4w,0.03125483257977857,Variant IV
+7,<=50,credit_risk_score,0.354653815280781,Variant IV
+7,<=50,email_is_free,0.15958371557128181,Variant IV
+7,<=50,phone_home_valid,0.256454579210624,Variant IV
+7,<=50,phone_mobile_valid,0.008001496188541513,Variant IV
+7,<=50,bank_months_count,0.1052508982591791,Variant IV
+7,<=50,has_other_cards,0.15387130594325393,Variant IV
+7,<=50,proposed_credit_limit,0.28826481718105,Variant IV
+7,<=50,foreign_request,0.013141914029224822,Variant IV
+7,<=50,session_length_in_minutes,0.0022989974444662664,Variant IV
+7,<=50,keep_alive_session,0.21190856868269892,Variant IV
+7,<=50,device_distinct_emails_8w,0.03400102112137704,Variant IV
+7,>50,income,0.15513947746004209,Variant IV
+7,>50,name_email_similarity,0.2187744002135541,Variant IV
+7,>50,prev_address_months_count,0.007516517067636563,Variant IV
+7,>50,current_address_months_count,0.11381385765290797,Variant IV
+7,>50,customer_age,0.054058360305649256,Variant IV
+7,>50,days_since_request,0.09977309886883112,Variant IV
+7,>50,intended_balcon_amount,0.04408263538990298,Variant IV
+7,>50,zip_count_4w,0.06284577396643187,Variant IV
+7,>50,velocity_6h,0.07830007674597073,Variant IV
+7,>50,velocity_24h,0.057399312623043874,Variant IV
+7,>50,velocity_4w,0.07087740665354203,Variant IV
+7,>50,bank_branch_count_8w,0.21642614034502328,Variant IV
+7,>50,date_of_birth_distinct_emails_4w,0.16134422236310852,Variant IV
+7,>50,credit_risk_score,0.2798395842370449,Variant IV
+7,>50,email_is_free,0.16991641362741516,Variant IV
+7,>50,phone_home_valid,0.32461043077847107,Variant IV
+7,>50,phone_mobile_valid,0.029270245920784976,Variant IV
+7,>50,bank_months_count,0.1144449264239713,Variant IV
+7,>50,has_other_cards,0.1998206480029363,Variant IV
+7,>50,proposed_credit_limit,0.21588307918182115,Variant IV
+7,>50,foreign_request,0.011043077847108451,Variant IV
+7,>50,session_length_in_minutes,0.09290266608829123,Variant IV
+7,>50,keep_alive_session,0.23407604524675496,Variant IV
+7,>50,device_distinct_emails_8w,0.02350220227568478,Variant IV
+0,<=50,income,0.2405974936810118,Variant V
+0,<=50,name_email_similarity,0.1384055750635247,Variant V
+0,<=50,prev_address_months_count,0.014462058674048262,Variant V
+0,<=50,current_address_months_count,0.18657391492639253,Variant V
+0,<=50,customer_age,0.045915544310062506,Variant V
+0,<=50,days_since_request,0.06002150827865027,Variant V
+0,<=50,intended_balcon_amount,0.007711216794602516,Variant V
+0,<=50,zip_count_4w,0.01030758271977783,Variant V
+0,<=50,velocity_6h,0.048714336655016566,Variant V
+0,<=50,velocity_24h,0.03567056439379268,Variant V
+0,<=50,velocity_4w,0.015408683229531261,Variant V
+0,<=50,bank_branch_count_8w,0.2090298744011213,Variant V
+0,<=50,date_of_birth_distinct_emails_4w,0.0886322909561017,Variant V
+0,<=50,credit_risk_score,0.2198567265335447,Variant V
+0,<=50,email_is_free,0.12344173200209485,Variant V
+0,<=50,phone_home_valid,0.1987757087164549,Variant V
+0,<=50,phone_mobile_valid,0.05314904456219949,Variant V
+0,<=50,bank_months_count,0.06639409266440954,Variant V
+0,<=50,has_other_cards,0.1128531628515077,Variant V
+0,<=50,proposed_credit_limit,0.1606658041098108,Variant V
+0,<=50,foreign_request,0.015342458932117609,Variant V
+0,<=50,session_length_in_minutes,0.024241337108363403,Variant V
+0,<=50,keep_alive_session,0.25594410224156317,Variant V
+0,<=50,device_distinct_emails_8w,0.052664688614239896,Variant V
+0,<=50,x1,0.5605231512014259,Variant V
+0,<=50,x2,0.5501668480714459,Variant V
+0,>50,income,0.19410878615086125,Variant V
+0,>50,name_email_similarity,0.18724384955099171,Variant V
+0,>50,prev_address_months_count,0.006354054817914179,Variant V
+0,>50,current_address_months_count,0.11118460638500616,Variant V
+0,>50,customer_age,0.03984160872191711,Variant V
+0,>50,days_since_request,0.10002348263629335,Variant V
+0,>50,intended_balcon_amount,0.038525266539872316,Variant V
+0,>50,zip_count_4w,0.10065864910906408,Variant V
+0,>50,velocity_6h,0.0059650676365652355,Variant V
+0,>50,velocity_24h,0.03792236628490975,Variant V
+0,>50,velocity_4w,0.01528223678982199,Variant V
+0,>50,bank_branch_count_8w,0.11797186505311685,Variant V
+0,>50,date_of_birth_distinct_emails_4w,0.17573496767701757,Variant V
+0,>50,credit_risk_score,0.19812234513261107,Variant V
+0,>50,email_is_free,0.13458000438581563,Variant V
+0,>50,phone_home_valid,0.21469523063474227,Variant V
+0,>50,phone_mobile_valid,0.025550064323302868,Variant V
+0,>50,bank_months_count,0.04706864398829569,Variant V
+0,>50,has_other_cards,0.1250662503129525,Variant V
+0,>50,proposed_credit_limit,0.18519195710744119,Variant V
+0,>50,foreign_request,0.030381034156181652,Variant V
+0,>50,session_length_in_minutes,0.04668144937460306,Variant V
+0,>50,keep_alive_session,0.18632485986602365,Variant V
+0,>50,device_distinct_emails_8w,0.10734134133057505,Variant V
+0,>50,x1,0.015062946013239875,Variant V
+0,>50,x2,0.02282476396365385,Variant V
+1,<=50,income,0.265726510101034,Variant V
+1,<=50,name_email_similarity,0.15791415773530837,Variant V
+1,<=50,prev_address_months_count,0.009698744713483087,Variant V
+1,<=50,current_address_months_count,0.1604592561304381,Variant V
+1,<=50,customer_age,0.029417400294755813,Variant V
+1,<=50,days_since_request,0.002319049038487453,Variant V
+1,<=50,intended_balcon_amount,0.014088197100816213,Variant V
+1,<=50,zip_count_4w,0.02346233459405389,Variant V
+1,<=50,velocity_6h,0.0857075326223804,Variant V
+1,<=50,velocity_24h,0.047278797886554536,Variant V
+1,<=50,velocity_4w,0.0829663364820521,Variant V
+1,<=50,bank_branch_count_8w,0.1646051957514879,Variant V
+1,<=50,date_of_birth_distinct_emails_4w,0.08896643713323071,Variant V
+1,<=50,credit_risk_score,0.213078559678765,Variant V
+1,<=50,email_is_free,0.13036028103759034,Variant V
+1,<=50,phone_home_valid,0.21179865520275543,Variant V
+1,<=50,phone_mobile_valid,0.027744239333018172,Variant V
+1,<=50,bank_months_count,0.08524003513901834,Variant V
+1,<=50,has_other_cards,0.1415464551787542,Variant V
+1,<=50,proposed_credit_limit,0.17668834108074982,Variant V
+1,<=50,foreign_request,0.022979022545147165,Variant V
+1,<=50,session_length_in_minutes,0.010854297669122381,Variant V
+1,<=50,keep_alive_session,0.25056052813480023,Variant V
+1,<=50,device_distinct_emails_8w,0.09158216340675818,Variant V
+1,<=50,x1,0.5544931360054073,Variant V
+1,<=50,x2,0.5425680359671681,Variant V
+1,>50,income,0.2001754502264943,Variant V
+1,>50,name_email_similarity,0.14661761131366702,Variant V
+1,>50,prev_address_months_count,0.011372445033698053,Variant V
+1,>50,current_address_months_count,0.030162412993039345,Variant V
+1,>50,customer_age,0.060430891614186466,Variant V
+1,>50,days_since_request,0.11531366699812184,Variant V
+1,>50,intended_balcon_amount,0.03671461716937352,Variant V
+1,>50,zip_count_4w,0.09468080875041429,Variant V
+1,>50,velocity_6h,0.04255971715832496,Variant V
+1,>50,velocity_24h,0.006001546790409984,Variant V
+1,>50,velocity_4w,0.03532780908186939,Variant V
+1,>50,bank_branch_count_8w,0.08338526129709434,Variant V
+1,>50,date_of_birth_distinct_emails_4w,0.24424792840570098,Variant V
+1,>50,credit_risk_score,0.23122616285493325,Variant V
+1,>50,email_is_free,0.08209037675394981,Variant V
+1,>50,phone_home_valid,0.23056015909844207,Variant V
+1,>50,phone_mobile_valid,0.023745442492542068,Variant V
+1,>50,bank_months_count,0.09037012484808304,Variant V
+1,>50,has_other_cards,0.1806253452657165,Variant V
+1,>50,proposed_credit_limit,0.21011026405921984,Variant V
+1,>50,foreign_request,0.014564136559496177,Variant V
+1,>50,session_length_in_minutes,0.0440145840238646,Variant V
+1,>50,keep_alive_session,0.2125334217213568,Variant V
+1,>50,device_distinct_emails_8w,0.15157706330792187,Variant V
+1,>50,x1,0.05897072146724125,Variant V
+1,>50,x2,0.06540095017125169,Variant V
+2,<=50,income,0.24129701410229787,Variant V
+2,<=50,name_email_similarity,0.17090530859055264,Variant V
+2,<=50,prev_address_months_count,0.028719314183869304,Variant V
+2,<=50,current_address_months_count,0.21167908662800028,Variant V
+2,<=50,customer_age,0.021770201744526263,Variant V
+2,<=50,days_since_request,0.050894832249700483,Variant V
+2,<=50,intended_balcon_amount,0.003935993118224568,Variant V
+2,<=50,zip_count_4w,0.05741219387977403,Variant V
+2,<=50,velocity_6h,0.05666853297962404,Variant V
+2,<=50,velocity_24h,0.025907756662151504,Variant V
+2,<=50,velocity_4w,0.03367642256386416,Variant V
+2,<=50,bank_branch_count_8w,0.1509947697945916,Variant V
+2,<=50,date_of_birth_distinct_emails_4w,0.08949556606209053,Variant V
+2,<=50,credit_risk_score,0.29204240387980684,Variant V
+2,<=50,email_is_free,0.1200610214057507,Variant V
+2,<=50,phone_home_valid,0.17592525627444267,Variant V
+2,<=50,phone_mobile_valid,0.021539769098823824,Variant V
+2,<=50,bank_months_count,0.05820723382902293,Variant V
+2,<=50,has_other_cards,0.12076570057249736,Variant V
+2,<=50,proposed_credit_limit,0.25630237643329323,Variant V
+2,<=50,foreign_request,0.012293498718334961,Variant V
+2,<=50,session_length_in_minutes,0.0069571243100302604,Variant V
+2,<=50,keep_alive_session,0.23338970066995157,Variant V
+2,<=50,device_distinct_emails_8w,0.08645844861134577,Variant V
+2,<=50,x1,0.5394528782528312,Variant V
+2,<=50,x2,0.5805181478241679,Variant V
+2,>50,income,0.25351777338634784,Variant V
+2,>50,name_email_similarity,0.1707932307918023,Variant V
+2,>50,prev_address_months_count,0.010420601311294408,Variant V
+2,>50,current_address_months_count,0.09623419519612453,Variant V
+2,>50,customer_age,0.09176551137456834,Variant V
+2,>50,days_since_request,0.073900428368179,Variant V
+2,>50,intended_balcon_amount,0.013206892757379407,Variant V
+2,>50,zip_count_4w,0.11201309878722321,Variant V
+2,>50,velocity_6h,0.0019857957049926878,Variant V
+2,>50,velocity_24h,0.047467981779069524,Variant V
+2,>50,velocity_4w,0.06881367689443696,Variant V
+2,>50,bank_branch_count_8w,0.1122273793995896,Variant V
+2,>50,date_of_birth_distinct_emails_4w,0.05897221237332184,Variant V
+2,>50,credit_risk_score,0.3228192121551805,Variant V
+2,>50,email_is_free,0.128122110348724,Variant V
+2,>50,phone_home_valid,0.23170040352964572,Variant V
+2,>50,phone_mobile_valid,0.01475833586973807,Variant V
+2,>50,bank_months_count,0.09108631261675226,Variant V
+2,>50,has_other_cards,0.15076088921949737,Variant V
+2,>50,proposed_credit_limit,0.26439138836462694,Variant V
+2,>50,foreign_request,0.05219116404564361,Variant V
+2,>50,session_length_in_minutes,0.0052675708493428175,Variant V
+2,>50,keep_alive_session,0.1243509646166725,Variant V
+2,>50,device_distinct_emails_8w,0.11324537317966032,Variant V
+2,>50,x1,0.02466543589374004,Variant V
+2,>50,x2,0.028143474061428364,Variant V
+3,<=50,income,0.26846890260489764,Variant V
+3,<=50,name_email_similarity,0.164911428191586,Variant V
+3,<=50,prev_address_months_count,0.016593306135672448,Variant V
+3,<=50,current_address_months_count,0.2800837271795704,Variant V
+3,<=50,customer_age,0.05690436597514159,Variant V
+3,<=50,days_since_request,0.12146994378106757,Variant V
+3,<=50,intended_balcon_amount,0.008555996611518735,Variant V
+3,<=50,zip_count_4w,0.09438821972825329,Variant V
+3,<=50,velocity_6h,0.09270975754160415,Variant V
+3,<=50,velocity_24h,0.038833137282112795,Variant V
+3,<=50,velocity_4w,0.05330463028251664,Variant V
+3,<=50,bank_branch_count_8w,0.24631000440061146,Variant V
+3,<=50,date_of_birth_distinct_emails_4w,0.09443182815481543,Variant V
+3,<=50,credit_risk_score,0.40668095503370294,Variant V
+3,<=50,email_is_free,0.13862278450755672,Variant V
+3,<=50,phone_home_valid,0.20728458943709538,Variant V
+3,<=50,phone_mobile_valid,0.01817967925194397,Variant V
+3,<=50,bank_months_count,0.09972240229877039,Variant V
+3,<=50,has_other_cards,0.17354138256243856,Variant V
+3,<=50,proposed_credit_limit,0.35743414464426193,Variant V
+3,<=50,foreign_request,0.03343804783163962,Variant V
+3,<=50,session_length_in_minutes,0.0012170881984798765,Variant V
+3,<=50,keep_alive_session,0.23609582152193698,Variant V
+3,<=50,device_distinct_emails_8w,0.032380647594712375,Variant V
+3,<=50,x1,0.5360554133508955,Variant V
+3,<=50,x2,0.5464401571477457,Variant V
+3,>50,income,0.2788956349797824,Variant V
+3,>50,name_email_similarity,0.1998684230814698,Variant V
+3,>50,prev_address_months_count,0.0021482575236368984,Variant V
+3,>50,current_address_months_count,0.14940691263424766,Variant V
+3,>50,customer_age,0.049387308260783636,Variant V
+3,>50,days_since_request,0.1694612321679133,Variant V
+3,>50,intended_balcon_amount,0.01633521569583385,Variant V
+3,>50,zip_count_4w,0.06305148314060594,Variant V
+3,>50,velocity_6h,0.11151687187624137,Variant V
+3,>50,velocity_24h,0.059769255790081965,Variant V
+3,>50,velocity_4w,0.11124740352188534,Variant V
+3,>50,bank_branch_count_8w,0.24987367294177942,Variant V
+3,>50,date_of_birth_distinct_emails_4w,0.15561173354792923,Variant V
+3,>50,credit_risk_score,0.42390147590828087,Variant V
+3,>50,email_is_free,0.1521870624351569,Variant V
+3,>50,phone_home_valid,0.27738661219538874,Variant V
+3,>50,phone_mobile_valid,0.011279490080700949,Variant V
+3,>50,bank_months_count,0.14198897015362633,Variant V
+3,>50,has_other_cards,0.18610306907567953,Variant V
+3,>50,proposed_credit_limit,0.35125912209119203,Variant V
+3,>50,foreign_request,0.03290450907932119,Variant V
+3,>50,session_length_in_minutes,0.052435604772893996,Variant V
+3,>50,keep_alive_session,0.18273699080944028,Variant V
+3,>50,device_distinct_emails_8w,0.054383706783186714,Variant V
+3,>50,x1,0.020905898273126278,Variant V
+3,>50,x2,0.009081010117178323,Variant V
+4,<=50,income,0.2631631392172342,Variant V
+4,<=50,name_email_similarity,0.1615788794751476,Variant V
+4,<=50,prev_address_months_count,0.011350783044859147,Variant V
+4,<=50,current_address_months_count,0.20688865825670666,Variant V
+4,<=50,customer_age,0.06602448819378193,Variant V
+4,<=50,days_since_request,0.07279243911569844,Variant V
+4,<=50,intended_balcon_amount,0.002188046744175942,Variant V
+4,<=50,zip_count_4w,0.0851294312145714,Variant V
+4,<=50,velocity_6h,0.07314062991209602,Variant V
+4,<=50,velocity_24h,0.024889305511402116,Variant V
+4,<=50,velocity_4w,0.0067349947753498896,Variant V
+4,<=50,bank_branch_count_8w,0.2228317054311898,Variant V
+4,<=50,date_of_birth_distinct_emails_4w,0.08658617894311449,Variant V
+4,<=50,credit_risk_score,0.3865142632447809,Variant V
+4,<=50,email_is_free,0.1558606248465273,Variant V
+4,<=50,phone_home_valid,0.22981608961541766,Variant V
+4,<=50,phone_mobile_valid,0.009855972028691262,Variant V
+4,<=50,bank_months_count,0.06844599386635708,Variant V
+4,<=50,has_other_cards,0.17281002466749118,Variant V
+4,<=50,proposed_credit_limit,0.3318667922613603,Variant V
+4,<=50,foreign_request,0.024414151411802143,Variant V
+4,<=50,session_length_in_minutes,0.0006118008551587728,Variant V
+4,<=50,keep_alive_session,0.22638843804058373,Variant V
+4,<=50,device_distinct_emails_8w,0.039207656008994674,Variant V
+4,<=50,x1,0.5572325504495854,Variant V
+4,<=50,x2,0.5487631951566332,Variant V
+4,>50,income,0.2368623144095232,Variant V
+4,>50,name_email_similarity,0.15728998410439243,Variant V
+4,>50,prev_address_months_count,0.0254752998283454,Variant V
+4,>50,current_address_months_count,0.13356127367428883,Variant V
+4,>50,customer_age,0.04680681961622257,Variant V
+4,>50,days_since_request,0.1605641542334999,Variant V
+4,>50,intended_balcon_amount,0.004914184127521315,Variant V
+4,>50,zip_count_4w,0.0933245251158914,Variant V
+4,>50,velocity_6h,0.047520534660814295,Variant V
+4,>50,velocity_24h,0.01979014472334617,Variant V
+4,>50,velocity_4w,0.04705152731618201,Variant V
+4,>50,bank_branch_count_8w,0.22864240325259055,Variant V
+4,>50,date_of_birth_distinct_emails_4w,0.1256514515796212,Variant V
+4,>50,credit_risk_score,0.37365089527115125,Variant V
+4,>50,email_is_free,0.08931736566775528,Variant V
+4,>50,phone_home_valid,0.24971239759124475,Variant V
+4,>50,phone_mobile_valid,0.03053120656202113,Variant V
+4,>50,bank_months_count,0.06524190726126178,Variant V
+4,>50,has_other_cards,0.19726312861534356,Variant V
+4,>50,proposed_credit_limit,0.3148135270637269,Variant V
+4,>50,foreign_request,0.02380108344097942,Variant V
+4,>50,session_length_in_minutes,0.023477577971998675,Variant V
+4,>50,keep_alive_session,0.1843907477435872,Variant V
+4,>50,device_distinct_emails_8w,0.06561851146668185,Variant V
+4,>50,x1,0.004504133387049247,Variant V
+4,>50,x2,0.012439843477774382,Variant V
+5,<=50,income,0.23697010237954985,Variant V
+5,<=50,name_email_similarity,0.1586809639432578,Variant V
+5,<=50,prev_address_months_count,0.006465768075301304,Variant V
+5,<=50,current_address_months_count,0.1312709792294251,Variant V
+5,<=50,customer_age,0.0027320639534289537,Variant V
+5,<=50,days_since_request,0.09393984695174296,Variant V
+5,<=50,intended_balcon_amount,0.0010817272959570134,Variant V
+5,<=50,zip_count_4w,0.05605668732278857,Variant V
+5,<=50,velocity_6h,0.08634603287777454,Variant V
+5,<=50,velocity_24h,0.01630596812431362,Variant V
+5,<=50,velocity_4w,0.14510041132487017,Variant V
+5,<=50,bank_branch_count_8w,0.2255327674743669,Variant V
+5,<=50,date_of_birth_distinct_emails_4w,0.057409088204462444,Variant V
+5,<=50,credit_risk_score,0.2981630033792031,Variant V
+5,<=50,email_is_free,0.15019131600976876,Variant V
+5,<=50,phone_home_valid,0.2643217087468597,Variant V
+5,<=50,phone_mobile_valid,0.021696749789468228,Variant V
+5,<=50,bank_months_count,0.10461446627088256,Variant V
+5,<=50,has_other_cards,0.1978285587383155,Variant V
+5,<=50,proposed_credit_limit,0.24467263101380876,Variant V
+5,<=50,foreign_request,0.02921260992763508,Variant V
+5,<=50,session_length_in_minutes,0.004290367609799173,Variant V
+5,<=50,keep_alive_session,0.21898071890494786,Variant V
+5,<=50,device_distinct_emails_8w,0.05314754712533376,Variant V
+5,<=50,x1,0.5620221366139204,Variant V
+5,<=50,x2,0.5556302125250552,Variant V
+5,>50,income,0.24157799600195795,Variant V
+5,>50,name_email_similarity,0.12236870770994968,Variant V
+5,>50,prev_address_months_count,0.020812424740459967,Variant V
+5,>50,current_address_months_count,0.06576806434058291,Variant V
+5,>50,customer_age,0.05115802839831285,Variant V
+5,>50,days_since_request,0.08775319337451704,Variant V
+5,>50,intended_balcon_amount,0.010088310603926676,Variant V
+5,>50,zip_count_4w,0.0022688386991505105,Variant V
+5,>50,velocity_6h,0.02805648305389874,Variant V
+5,>50,velocity_24h,0.005277397207204437,Variant V
+5,>50,velocity_4w,0.062493106431232626,Variant V
+5,>50,bank_branch_count_8w,0.17660912986526434,Variant V
+5,>50,date_of_birth_distinct_emails_4w,0.18646978178493523,Variant V
+5,>50,credit_risk_score,0.30695386755414833,Variant V
+5,>50,email_is_free,0.1360564867000842,Variant V
+5,>50,phone_home_valid,0.2968491491171219,Variant V
+5,>50,phone_mobile_valid,0.006218568744718711,Variant V
+5,>50,bank_months_count,0.11613714943069375,Variant V
+5,>50,has_other_cards,0.18674301778335645,Variant V
+5,>50,proposed_credit_limit,0.19919428424018504,Variant V
+5,>50,foreign_request,0.02063695208092331,Variant V
+5,>50,session_length_in_minutes,0.023541594312680436,Variant V
+5,>50,keep_alive_session,0.2549722570888675,Variant V
+5,>50,device_distinct_emails_8w,0.08986661343236357,Variant V
+5,>50,x1,0.0126736837499557,Variant V
+5,>50,x2,0.03934051449495324,Variant V
+6,<=50,income,0.20650617752387657,Variant V
+6,<=50,name_email_similarity,0.13970064811174188,Variant V
+6,<=50,prev_address_months_count,0.009418032480606797,Variant V
+6,<=50,current_address_months_count,0.19278418533244301,Variant V
+6,<=50,customer_age,0.025330942514616206,Variant V
+6,<=50,days_since_request,0.07204799043973142,Variant V
+6,<=50,intended_balcon_amount,0.002406883689983874,Variant V
+6,<=50,zip_count_4w,0.05758537480934822,Variant V
+6,<=50,velocity_6h,0.07148021734173571,Variant V
+6,<=50,velocity_24h,0.059834295659662584,Variant V
+6,<=50,velocity_4w,0.06336629114212966,Variant V
+6,<=50,bank_branch_count_8w,0.2381691307078394,Variant V
+6,<=50,date_of_birth_distinct_emails_4w,0.06816369291803503,Variant V
+6,<=50,credit_risk_score,0.3319481506097044,Variant V
+6,<=50,email_is_free,0.1523442202742915,Variant V
+6,<=50,phone_home_valid,0.25801182750285045,Variant V
+6,<=50,phone_mobile_valid,0.002779064958946753,Variant V
+6,<=50,bank_months_count,0.08361876687973013,Variant V
+6,<=50,has_other_cards,0.18257812365048753,Variant V
+6,<=50,proposed_credit_limit,0.293533656093359,Variant V
+6,<=50,foreign_request,0.025568384694335977,Variant V
+6,<=50,session_length_in_minutes,0.00543723238432503,Variant V
+6,<=50,keep_alive_session,0.23392980041466294,Variant V
+6,<=50,device_distinct_emails_8w,0.028980622536054268,Variant V
+6,<=50,x1,0.007079154044702385,Variant V
+6,<=50,x2,0.01912359353040438,Variant V
+6,>50,income,0.2218273635526562,Variant V
+6,>50,name_email_similarity,0.12990326983561806,Variant V
+6,>50,prev_address_months_count,0.0029763716521084005,Variant V
+6,>50,current_address_months_count,0.12042953323340622,Variant V
+6,>50,customer_age,0.08272946374389578,Variant V
+6,>50,days_since_request,0.10877405571795296,Variant V
+6,>50,intended_balcon_amount,0.007115879023165128,Variant V
+6,>50,zip_count_4w,0.06031383224121867,Variant V
+6,>50,velocity_6h,0.07364835244773449,Variant V
+6,>50,velocity_24h,0.009816206944739614,Variant V
+6,>50,velocity_4w,0.05281643091919497,Variant V
+6,>50,bank_branch_count_8w,0.2203334347918473,Variant V
+6,>50,date_of_birth_distinct_emails_4w,0.12717154720405222,Variant V
+6,>50,credit_risk_score,0.2802705305131694,Variant V
+6,>50,email_is_free,0.134750115337273,Variant V
+6,>50,phone_home_valid,0.2778657723002942,Variant V
+6,>50,phone_mobile_valid,0.015661748800205322,Variant V
+6,>50,bank_months_count,0.1005199270264423,Variant V
+6,>50,has_other_cards,0.20204237902986522,Variant V
+6,>50,proposed_credit_limit,0.25823622987819217,Variant V
+6,>50,foreign_request,0.036026769733202624,Variant V
+6,>50,session_length_in_minutes,0.0010746945237287697,Variant V
+6,>50,keep_alive_session,0.20893122069906833,Variant V
+6,>50,device_distinct_emails_8w,0.03623121821046338,Variant V
+6,>50,x1,0.03226438174435908,Variant V
+6,>50,x2,0.0208342187024414,Variant V
+7,<=50,income,0.2024474576736579,Variant V
+7,<=50,name_email_similarity,0.25062495284052055,Variant V
+7,<=50,prev_address_months_count,0.01927731836000901,Variant V
+7,<=50,current_address_months_count,0.2569836710806708,Variant V
+7,<=50,customer_age,0.012226225803922297,Variant V
+7,<=50,days_since_request,0.12876823555708372,Variant V
+7,<=50,intended_balcon_amount,0.0037233391856899,Variant V
+7,<=50,zip_count_4w,0.024016075150392835,Variant V
+7,<=50,velocity_6h,0.047670805104992,Variant V
+7,<=50,velocity_24h,0.032198557633047686,Variant V
+7,<=50,velocity_4w,0.08597596664044738,Variant V
+7,<=50,bank_branch_count_8w,0.1305625315348038,Variant V
+7,<=50,date_of_birth_distinct_emails_4w,0.039187445485419525,Variant V
+7,<=50,credit_risk_score,0.3700921972437996,Variant V
+7,<=50,email_is_free,0.17586753409204747,Variant V
+7,<=50,phone_home_valid,0.25325668083850905,Variant V
+7,<=50,phone_mobile_valid,0.012839001619017854,Variant V
+7,<=50,bank_months_count,0.11436476307692889,Variant V
+7,<=50,has_other_cards,0.13863697282949417,Variant V
+7,<=50,proposed_credit_limit,0.29806289711905376,Variant V
+7,<=50,foreign_request,0.009733183254400757,Variant V
+7,<=50,session_length_in_minutes,0.0205909602740717,Variant V
+7,<=50,keep_alive_session,0.25283918868438326,Variant V
+7,<=50,device_distinct_emails_8w,0.039013028911253356,Variant V
+7,<=50,x1,0.024336151101119086,Variant V
+7,<=50,x2,0.018088933664242246,Variant V
+7,>50,income,0.234179936338774,Variant V
+7,>50,name_email_similarity,0.25804127604652993,Variant V
+7,>50,prev_address_months_count,0.010140976000465152,Variant V
+7,>50,current_address_months_count,0.0789100401306424,Variant V
+7,>50,customer_age,0.00687615941036579,Variant V
+7,>50,days_since_request,0.13234396982109287,Variant V
+7,>50,intended_balcon_amount,0.027526217718072843,Variant V
+7,>50,zip_count_4w,0.08805418259234798,Variant V
+7,>50,velocity_6h,0.014007129725310485,Variant V
+7,>50,velocity_24h,0.03457211273100014,Variant V
+7,>50,velocity_4w,0.010754348177935968,Variant V
+7,>50,bank_branch_count_8w,0.20085324302901286,Variant V
+7,>50,date_of_birth_distinct_emails_4w,0.11068877794516174,Variant V
+7,>50,credit_risk_score,0.34979146175968956,Variant V
+7,>50,email_is_free,0.17609923515228454,Variant V
+7,>50,phone_home_valid,0.3862111610496217,Variant V
+7,>50,phone_mobile_valid,0.08293970443595078,Variant V
+7,>50,bank_months_count,0.0969389491332695,Variant V
+7,>50,has_other_cards,0.165078456028519,Variant V
+7,>50,proposed_credit_limit,0.284468984864896,Variant V
+7,>50,foreign_request,0.0147860874906105,Variant V
+7,>50,session_length_in_minutes,0.05382071106352426,Variant V
+7,>50,keep_alive_session,0.26494150554234475,Variant V
+7,>50,device_distinct_emails_8w,0.07208077588675432,Variant V
+7,>50,x1,0.05878080867187074,Variant V
+7,>50,x2,0.05958010150936044,Variant V
