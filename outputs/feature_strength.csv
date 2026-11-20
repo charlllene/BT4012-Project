@@ -105,7 +105,7 @@ month,age_group,feature,strength,dataset
 2,<=50,zip_count_4w,0.0702610324233719,Base
 2,<=50,velocity_6h,0.005967821782288496,Base
 2,<=50,velocity_24h,0.028602903133911006,Base
-2,<=50,velocity_4w,0.054791951593810895,Base
+2,<=50,velocity_4w,0.054791951593810784,Base
 2,<=50,bank_branch_count_8w,0.10677481558187474,Base
 2,<=50,date_of_birth_distinct_emails_4w,0.22803560603257478,Base
 2,<=50,credit_risk_score,0.28372355669589755,Base
@@ -153,7 +153,7 @@ month,age_group,feature,strength,dataset
 3,<=50,zip_count_4w,0.09451084457019632,Base
 3,<=50,velocity_6h,0.11189034220127536,Base
 3,<=50,velocity_24h,0.01565738028828223,Base
-3,<=50,velocity_4w,0.017544628064549372,Base
+3,<=50,velocity_4w,0.017544628064549483,Base
 3,<=50,bank_branch_count_8w,0.22316066502912757,Base
 3,<=50,date_of_birth_distinct_emails_4w,0.23313061699148252,Base
 3,<=50,credit_risk_score,0.41776671336281423,Base
@@ -201,7 +201,7 @@ month,age_group,feature,strength,dataset
 4,<=50,zip_count_4w,0.06484789414839875,Base
 4,<=50,velocity_6h,0.07668946431071999,Base
 4,<=50,velocity_24h,0.04172966598368344,Base
-4,<=50,velocity_4w,0.010759814336448459,Base
+4,<=50,velocity_4w,0.010759814336448681,Base
 4,<=50,bank_branch_count_8w,0.22282293972926115,Base
 4,<=50,date_of_birth_distinct_emails_4w,0.23086042939711815,Base
 4,<=50,credit_risk_score,0.3963526990184274,Base
@@ -249,7 +249,7 @@ month,age_group,feature,strength,dataset
 5,<=50,zip_count_4w,0.05757622182986122,Base
 5,<=50,velocity_6h,0.06314807439490511,Base
 5,<=50,velocity_24h,0.022249954588638765,Base
-5,<=50,velocity_4w,0.12129246743643829,Base
+5,<=50,velocity_4w,0.1212924674364384,Base
 5,<=50,bank_branch_count_8w,0.19396032020173815,Base
 5,<=50,date_of_birth_distinct_emails_4w,0.14464483201092249,Base
 5,<=50,credit_risk_score,0.31268511007705446,Base
@@ -489,7 +489,7 @@ month,age_group,feature,strength,dataset
 2,<=50,zip_count_4w,0.03257645641835838,Variant IV
 2,<=50,velocity_6h,0.07110224195025805,Variant IV
 2,<=50,velocity_24h,0.03126969174081795,Variant IV
-2,<=50,velocity_4w,0.04370867511430687,Variant IV
+2,<=50,velocity_4w,0.04370867511430676,Variant IV
 2,<=50,bank_branch_count_8w,0.10629065025484907,Variant IV
 2,<=50,date_of_birth_distinct_emails_4w,0.33731155202206753,Variant IV
 2,<=50,credit_risk_score,0.3882066599031113,Variant IV
@@ -585,7 +585,7 @@ month,age_group,feature,strength,dataset
 4,<=50,zip_count_4w,0.047264744301749095,Variant IV
 4,<=50,velocity_6h,0.07888990476371305,Variant IV
 4,<=50,velocity_24h,0.015079105313865582,Variant IV
-4,<=50,velocity_4w,0.00206723681011034,Variant IV
+4,<=50,velocity_4w,0.002067236810110229,Variant IV
 4,<=50,bank_branch_count_8w,0.22935818563203025,Variant IV
 4,<=50,date_of_birth_distinct_emails_4w,0.28011360819219144,Variant IV
 4,<=50,credit_risk_score,0.4396818783345957,Variant IV
@@ -633,7 +633,7 @@ month,age_group,feature,strength,dataset
 5,<=50,zip_count_4w,0.059535312176445254,Variant IV
 5,<=50,velocity_6h,0.053752874369811465,Variant IV
 5,<=50,velocity_24h,0.0264836659450427,Variant IV
-5,<=50,velocity_4w,0.10597791766125697,Variant IV
+5,<=50,velocity_4w,0.10597791766125675,Variant IV
 5,<=50,bank_branch_count_8w,0.19019691304040187,Variant IV
 5,<=50,date_of_birth_distinct_emails_4w,0.2022893273040598,Variant IV
 5,<=50,credit_risk_score,0.3686304165039791,Variant IV
@@ -985,7 +985,7 @@ month,age_group,feature,strength,dataset
 4,<=50,zip_count_4w,0.0851294312145714,Variant V
 4,<=50,velocity_6h,0.07314062991209602,Variant V
 4,<=50,velocity_24h,0.024889305511402116,Variant V
-4,<=50,velocity_4w,0.0067349947753498896,Variant V
+4,<=50,velocity_4w,0.006734994775350112,Variant V
 4,<=50,bank_branch_count_8w,0.2228317054311898,Variant V
 4,<=50,date_of_birth_distinct_emails_4w,0.08658617894311449,Variant V
 4,<=50,credit_risk_score,0.3865142632447809,Variant V
@@ -1089,7 +1089,7 @@ month,age_group,feature,strength,dataset
 6,<=50,zip_count_4w,0.05758537480934822,Variant V
 6,<=50,velocity_6h,0.07148021734173571,Variant V
 6,<=50,velocity_24h,0.059834295659662584,Variant V
-6,<=50,velocity_4w,0.06336629114212966,Variant V
+6,<=50,velocity_4w,0.06336629114212955,Variant V
 6,<=50,bank_branch_count_8w,0.2381691307078394,Variant V
 6,<=50,date_of_birth_distinct_emails_4w,0.06816369291803503,Variant V
 6,<=50,credit_risk_score,0.3319481506097044,Variant V
